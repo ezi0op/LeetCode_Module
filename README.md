@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ezi0op/LeetCode_Module/tree/master/0035-search-insert-position) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/ezi0op/LeetCode_Module/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
