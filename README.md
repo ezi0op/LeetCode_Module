@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/ezi0op/LeetCode_Module/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ezi0op/LeetCode_Module/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ezi0op/LeetCode_Module/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/ezi0op/LeetCode_Module/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ezi0op/LeetCode_Module/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Database
 |  |
 | ------- |
