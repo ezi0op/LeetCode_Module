@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ezi0op/LeetCode_Module/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ezi0op/LeetCode_Module/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/ezi0op/LeetCode_Module/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/ezi0op/LeetCode_Module/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ezi0op/LeetCode_Module/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ezi0op/LeetCode_Module/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/ezi0op/LeetCode_Module/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ezi0op/LeetCode_Module/tree/master/0141-linked-list-cycle) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ezi0op/LeetCode_Module/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0088-merge-sorted-array) |
 ## Interactive
 |  |
