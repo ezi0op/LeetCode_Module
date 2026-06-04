@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ezi0op/LeetCode_Module/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ezi0op/LeetCode_Module/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/ezi0op/LeetCode_Module/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ezi0op/LeetCode_Module/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/ezi0op/LeetCode_Module/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ezi0op/LeetCode_Module/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/ezi0op/LeetCode_Module/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ezi0op/LeetCode_Module/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -127,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
