@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ezi0op/LeetCode_Module/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ezi0op/LeetCode_Module/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/ezi0op/LeetCode_Module/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ezi0op/LeetCode_Module/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ezi0op/LeetCode_Module/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/ezi0op/LeetCode_Module/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/ezi0op/LeetCode_Module/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/ezi0op/LeetCode_Module/tree/master/1108-defanging-an-ip-address) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ezi0op/LeetCode_Module/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ezi0op/LeetCode_Module/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ezi0op/LeetCode_Module/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/ezi0op/LeetCode_Module/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0442-find-all-duplicates-in-an-array) |
