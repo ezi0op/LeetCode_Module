@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/ezi0op/LeetCode_Module/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/ezi0op/LeetCode_Module/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ezi0op/LeetCode_Module/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1668-maximum-repeating-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
 | ------- |
@@ -152,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/1668-maximum-repeating-substring) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
