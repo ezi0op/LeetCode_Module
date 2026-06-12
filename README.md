@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/ezi0op/LeetCode_Module/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0344-reverse-string) |
+| [0686-repeated-string-match](https://github.com/ezi0op/LeetCode_Module/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/ezi0op/LeetCode_Module/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/ezi0op/LeetCode_Module/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/ezi0op/LeetCode_Module/tree/master/1528-shuffle-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/ezi0op/LeetCode_Module/tree/master/0686-repeated-string-match) |
 | [1668-maximum-repeating-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/1668-maximum-repeating-substring) |
 ## Sliding Window
 |  |
