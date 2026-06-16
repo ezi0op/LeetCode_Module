@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ezi0op/LeetCode_Module/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ezi0op/LeetCode_Module/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ezi0op/LeetCode_Module/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ezi0op/LeetCode_Module/tree/master/0203-remove-linked-list-elements) |
+| [0342-power-of-four](https://github.com/ezi0op/LeetCode_Module/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ezi0op/LeetCode_Module/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/ezi0op/LeetCode_Module/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/ezi0op/LeetCode_Module/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ezi0op/LeetCode_Module/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
