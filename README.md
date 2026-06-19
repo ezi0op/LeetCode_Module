@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ezi0op/LeetCode_Module/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ezi0op/LeetCode_Module/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ezi0op/LeetCode_Module/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1023-camelcase-matching](https://github.com/ezi0op/LeetCode_Module/tree/master/1023-camelcase-matching) |
 | [1095-find-in-mountain-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1095-find-in-mountain-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/ezi0op/LeetCode_Module/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/ezi0op/LeetCode_Module/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0977-squares-of-a-sorted-array) |
 | [1023-camelcase-matching](https://github.com/ezi0op/LeetCode_Module/tree/master/1023-camelcase-matching) |
 | [2000-reverse-prefix-of-word](https://github.com/ezi0op/LeetCode_Module/tree/master/2000-reverse-prefix-of-word) |
 ## Linked List
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/ezi0op/LeetCode_Module/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0977-squares-of-a-sorted-array) |
 ## Interactive
 |  |
 | ------- |
