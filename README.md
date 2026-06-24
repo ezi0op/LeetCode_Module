@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ezi0op/LeetCode_Module/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ezi0op/LeetCode_Module/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0509-fibonacci-number) |
 | [0754-reach-a-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0754-reach-a-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ezi0op/LeetCode_Module/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ezi0op/LeetCode_Module/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/ezi0op/LeetCode_Module/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ezi0op/LeetCode_Module/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0509-fibonacci-number) |
 ## Binary Search
