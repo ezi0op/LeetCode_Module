@@ -1,37 +1,37 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-
-		if (nums.length == 1) {
-			return nums;
-		}
-
-		int mid = nums.length / 2;
-		int[] leftArr = sortArray(Arrays.copyOfRange(nums, 0, mid));
-		int[] rightArr = sortArray(Arrays.copyOfRange(nums, mid, nums.length));
-		return mergeArr(leftArr, rightArr);
-
+		quickSortArr(nums, 0, nums.length - 1);
+		return nums;
 	}
 
-	private static int[] mergeArr(int[] leftArr, int[] rightArr) {
-		int[] mergedArr = new int[leftArr.length + rightArr.length];
-		int i = 0, j = 0, k = 0;
+	private static void quickSortArr(int[] nums, int low, int high) {
+		// TODO Auto-generated method stub
+		if (low >= high) {
+			return;
+		}
+		int s = low;
+		int e = high;
+		int mid = s + (e - s) / 2;
+		int pivot = nums[mid];
 
-		while (i < leftArr.length && j < rightArr.length) {
-			if (leftArr[i] < rightArr[j]) {
-				mergedArr[k++] = leftArr[i++];
-			} else {
-				mergedArr[k++] = rightArr[j++];
+		while (s <= e) {
+			while (nums[s] < pivot) {
+				s++;
 			}
+			while (nums[e] > pivot) {
+				e--;
+			}
+            if (s <= e) {
+			int temp = nums[s];
+			nums[s] = nums[e];
+			nums[e] = temp;
+			s++;
+			e--;
 		}
+		}
+		
+		quickSortArr(nums, low, e);
+		quickSortArr(nums, s, high);
 
-		while (i < leftArr.length) {
-			mergedArr[k++] = leftArr[i++];
-		}
-		while (j < rightArr.length) {
-			mergedArr[k++] = rightArr[j++];
-		}
-
-		return mergedArr;
 	}
-
 }
