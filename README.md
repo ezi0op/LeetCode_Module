@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/ezi0op/LeetCode_Module/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ezi0op/LeetCode_Module/tree/master/0392-is-subsequence) |
 | [0686-repeated-string-match](https://github.com/ezi0op/LeetCode_Module/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/ezi0op/LeetCode_Module/tree/master/0709-to-lower-case) |
 | [1023-camelcase-matching](https://github.com/ezi0op/LeetCode_Module/tree/master/1023-camelcase-matching) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ezi0op/LeetCode_Module/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ezi0op/LeetCode_Module/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/ezi0op/LeetCode_Module/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/ezi0op/LeetCode_Module/tree/master/0876-middle-of-the-linked-list) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ezi0op/LeetCode_Module/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0509-fibonacci-number) |
