@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ezi0op/LeetCode_Module/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ezi0op/LeetCode_Module/tree/master/0058-length-of-last-word) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/ezi0op/LeetCode_Module/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0494-target-sum) |
