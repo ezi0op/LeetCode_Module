@@ -1,10 +1,6 @@
 class Solution {
-    public List<List<Integer>> permute(int[] nums) {
 
-		return permute(new ArrayList<>(), nums);
-	}
-
-	static List<List<Integer>> permute(List<Integer> p, int[] up) {
+    static List<List<Integer>> permute(List<Integer> p, int[] up) {
 		if (up.length == 0) {
 			List<List<Integer>> ans = new ArrayList<>();
 			ans.add(new ArrayList<>(p));
@@ -23,4 +19,10 @@ class Solution {
 		}
 		return ans;
 	}
+    public List<List<Integer>> permute(int[] nums) {
+
+		return permute(new ArrayList<>(), nums);
+	}
+
+	
 }
