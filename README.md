@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ezi0op/LeetCode_Module/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ezi0op/LeetCode_Module/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/ezi0op/LeetCode_Module/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/ezi0op/LeetCode_Module/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ezi0op/LeetCode_Module/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ezi0op/LeetCode_Module/tree/master/0075-sort-colors) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ezi0op/LeetCode_Module/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0494-target-sum) |
 ## Counting Sort
 |  |
