@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/ezi0op/LeetCode_Module/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/ezi0op/LeetCode_Module/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ezi0op/LeetCode_Module/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0189-rotate-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ezi0op/LeetCode_Module/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ezi0op/LeetCode_Module/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/ezi0op/LeetCode_Module/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ezi0op/LeetCode_Module/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ezi0op/LeetCode_Module/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0202-happy-number) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ezi0op/LeetCode_Module/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ezi0op/LeetCode_Module/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/ezi0op/LeetCode_Module/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/ezi0op/LeetCode_Module/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0344-reverse-string) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/ezi0op/LeetCode_Module/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/ezi0op/LeetCode_Module/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0494-target-sum) |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ezi0op/LeetCode_Module/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -296,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ezi0op/LeetCode_Module/tree/master/0139-word-break) |
 | [1023-camelcase-matching](https://github.com/ezi0op/LeetCode_Module/tree/master/1023-camelcase-matching) |
 ## Backtracking
 |  |
