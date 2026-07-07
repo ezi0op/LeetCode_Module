@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0754-reach-a-number) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ezi0op/LeetCode_Module/tree/master/1030-matrix-cells-in-distance-order) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ezi0op/LeetCode_Module/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/ezi0op/LeetCode_Module/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ezi0op/LeetCode_Module/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 ## String
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ezi0op/LeetCode_Module/tree/master/1051-height-checker) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ezi0op/LeetCode_Module/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Interactive
 |  |
 | ------- |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/ezi0op/LeetCode_Module/tree/master/1871-jump-game-vii) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 ## String Matching
 |  |
 | ------- |
@@ -311,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ezi0op/LeetCode_Module/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0494-target-sum) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Counting Sort
 |  |
 | ------- |
@@ -342,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0912-sort-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
