@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ezi0op/LeetCode_Module/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0494-target-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ezi0op/LeetCode_Module/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ezi0op/LeetCode_Module/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ezi0op/LeetCode_Module/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/ezi0op/LeetCode_Module/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/ezi0op/LeetCode_Module/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/ezi0op/LeetCode_Module/tree/master/0876-middle-of-the-linked-list) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/ezi0op/LeetCode_Module/tree/master/0436-find-right-interval) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/ezi0op/LeetCode_Module/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ezi0op/LeetCode_Module/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/ezi0op/LeetCode_Module/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ezi0op/LeetCode_Module/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/ezi0op/LeetCode_Module/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0912-sort-an-array) |
