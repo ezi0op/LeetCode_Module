@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ezi0op/LeetCode_Module/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ezi0op/LeetCode_Module/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ezi0op/LeetCode_Module/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/ezi0op/LeetCode_Module/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ezi0op/LeetCode_Module/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ezi0op/LeetCode_Module/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ezi0op/LeetCode_Module/tree/master/0075-sort-colors) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ezi0op/LeetCode_Module/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ezi0op/LeetCode_Module/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/ezi0op/LeetCode_Module/tree/master/0832-flipping-an-image) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ezi0op/LeetCode_Module/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/ezi0op/LeetCode_Module/tree/master/0832-flipping-an-image) |
 | [1324-print-words-vertically](https://github.com/ezi0op/LeetCode_Module/tree/master/1324-print-words-vertically) |
 ## Trie
