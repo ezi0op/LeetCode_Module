@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ezi0op/LeetCode_Module/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ezi0op/LeetCode_Module/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/ezi0op/LeetCode_Module/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/ezi0op/LeetCode_Module/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/ezi0op/LeetCode_Module/tree/master/0709-to-lower-case) |
 | [1023-camelcase-matching](https://github.com/ezi0op/LeetCode_Module/tree/master/1023-camelcase-matching) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/ezi0op/LeetCode_Module/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/ezi0op/LeetCode_Module/tree/master/0686-repeated-string-match) |
 | [1023-camelcase-matching](https://github.com/ezi0op/LeetCode_Module/tree/master/1023-camelcase-matching) |
 | [1668-maximum-repeating-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/1668-maximum-repeating-substring) |
