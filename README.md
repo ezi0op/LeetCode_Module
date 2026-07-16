@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ezi0op/LeetCode_Module/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ezi0op/LeetCode_Module/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ezi0op/LeetCode_Module/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0090-subsets-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ezi0op/LeetCode_Module/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ezi0op/LeetCode_Module/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/ezi0op/LeetCode_Module/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0151-reverse-words-in-a-string) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ezi0op/LeetCode_Module/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ezi0op/LeetCode_Module/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ezi0op/LeetCode_Module/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/ezi0op/LeetCode_Module/tree/master/0832-flipping-an-image) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ezi0op/LeetCode_Module/tree/master/1030-matrix-cells-in-distance-order) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/ezi0op/LeetCode_Module/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0494-target-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -409,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ezi0op/LeetCode_Module/tree/master/1291-sequential-digits) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
