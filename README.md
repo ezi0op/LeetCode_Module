@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ezi0op/LeetCode_Module/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ezi0op/LeetCode_Module/tree/master/0125-valid-palindrome) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ezi0op/LeetCode_Module/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/ezi0op/LeetCode_Module/tree/master/2000-reverse-prefix-of-word) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/ezi0op/LeetCode_Module/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/ezi0op/LeetCode_Module/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/ezi0op/LeetCode_Module/tree/master/0392-is-subsequence) |
