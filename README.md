@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ezi0op/LeetCode_Module/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ezi0op/LeetCode_Module/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/ezi0op/LeetCode_Module/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ezi0op/LeetCode_Module/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ezi0op/LeetCode_Module/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ezi0op/LeetCode_Module/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ezi0op/LeetCode_Module/tree/master/0074-search-a-2d-matrix) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/ezi0op/LeetCode_Module/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ezi0op/LeetCode_Module/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/ezi0op/LeetCode_Module/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ezi0op/LeetCode_Module/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ezi0op/LeetCode_Module/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ezi0op/LeetCode_Module/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/ezi0op/LeetCode_Module/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0410-split-array-largest-sum) |
