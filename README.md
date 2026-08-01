@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/ezi0op/LeetCode_Module/tree/master/1871-jump-game-vii) |
 | [2000-reverse-prefix-of-word](https://github.com/ezi0op/LeetCode_Module/tree/master/2000-reverse-prefix-of-word) |
+| [3913-sort-vowels-by-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/3913-sort-vowels-by-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ezi0op/LeetCode_Module/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3913-sort-vowels-by-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/3913-sort-vowels-by-frequency) |
 ## Interactive
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ezi0op/LeetCode_Module/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ezi0op/LeetCode_Module/tree/master/0383-ransom-note) |
+| [3913-sort-vowels-by-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/3913-sort-vowels-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
