@@ -1,12 +1,15 @@
 class Solution {
     public int countConsistentStrings(String allowed, String[] words) {
-        int count = 0;
-		boolean isValid = true;
+     Set<Character> allowedSet = new HashSet<>();
+		for (char c : allowed.toCharArray()) {
+			allowedSet.add(c);
+		}
+		int count = 0;
+		
 		for (String word : words) {
-			isValid = true;
+            boolean isValid = true;
 			for (char c : word.toCharArray()) {
-				if (!allowed.contains(String.valueOf(c))) {
-
+				if (!allowedSet.contains(c)) {
 					isValid = false;
 					break;
 				}
@@ -15,6 +18,6 @@ class Solution {
 				count++;
 			}
 		}
-		return count;
+		return  count;
     }
 }
