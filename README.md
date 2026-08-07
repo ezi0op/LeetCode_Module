@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ezi0op/LeetCode_Module/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ezi0op/LeetCode_Module/tree/master/0342-power-of-four) |
+| [0365-water-and-jug-problem](https://github.com/ezi0op/LeetCode_Module/tree/master/0365-water-and-jug-problem) |
 | [0509-fibonacci-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/ezi0op/LeetCode_Module/tree/master/0633-sum-of-square-numbers) |
 | [0754-reach-a-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0754-reach-a-number) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0079-word-search) |
+| [0365-water-and-jug-problem](https://github.com/ezi0op/LeetCode_Module/tree/master/0365-water-and-jug-problem) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -508,4 +510,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ezi0op/LeetCode_Module/tree/master/0051-n-queens) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/ezi0op/LeetCode_Module/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/ezi0op/LeetCode_Module/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/ezi0op/LeetCode_Module/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/ezi0op/LeetCode_Module/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/ezi0op/LeetCode_Module/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
