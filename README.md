@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ezi0op/LeetCode_Module/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ezi0op/LeetCode_Module/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3523-make-array-non-decreasing](https://github.com/ezi0op/LeetCode_Module/tree/master/3523-make-array-non-decreasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/ezi0op/LeetCode_Module/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/ezi0op/LeetCode_Module/tree/master/3174-clear-digits) |
+| [3523-make-array-non-decreasing](https://github.com/ezi0op/LeetCode_Module/tree/master/3523-make-array-non-decreasing) |
 ## Two Pointers
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ezi0op/LeetCode_Module/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3523-make-array-non-decreasing](https://github.com/ezi0op/LeetCode_Module/tree/master/3523-make-array-non-decreasing) |
 ## Geometry
 |  |
 | ------- |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3523-make-array-non-decreasing](https://github.com/ezi0op/LeetCode_Module/tree/master/3523-make-array-non-decreasing) |
 ## Algorithm X
 |  |
 | ------- |
