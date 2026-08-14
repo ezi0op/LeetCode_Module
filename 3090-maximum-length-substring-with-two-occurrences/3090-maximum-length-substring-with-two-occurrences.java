@@ -1,28 +1,23 @@
 class Solution {
     public int maximumLengthSubstring(String s) {
-// take an array of size 26 to store the frequency of each character in the
-		// given string
-		int[] freq = new int[26];
-
-		// take left and right for traversing the string and max to store the maximum
-		// length of substring
+Map<Character, Integer> map = new HashMap<>();
 		int left = 0;
 		int max = 0;
-
 		for (int right = 0; right < s.length(); right++) {
 			char ch = s.charAt(right);
-			// increment the frequency of the character at index right
-			freq[ch - 'a']++;
-			// if the frequency of the character at index right is greater than 2 then we
-			// will decrement the frequency of the character at index left and increment the
-			// left pointer until the frequency of the character at index right is less than
-			// or equal to 2
-			while (freq[ch - 'a'] > 2) {
-				// decrement the frequency of the character at index left and increment the left
+			// add character to map
+			map.put(ch, map.getOrDefault(ch, 0) + 1);
+			// if the size of map is greater than 2 then we will remove the character from
+			// map
+			while (map.get(ch) > 2) {
+
 				char leftChar = s.charAt(left);
-				freq[leftChar - 'a']--;
+				// decrement the frequency of the character at index left and increment the left
+				// pointer until the size of map is less than or equal to 2
+				map.put(leftChar, map.get(leftChar) - 1);
 				left++;
 			}
+			// update the max length of substring with at most 2 distinct characters
 			max = Math.max(max, right - left + 1);
 		}
 		return max;
