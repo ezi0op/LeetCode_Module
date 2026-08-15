@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1929-concatenation-of-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3523-make-array-non-decreasing](https://github.com/ezi0op/LeetCode_Module/tree/master/3523-make-array-non-decreasing) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ezi0op/LeetCode_Module/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ezi0op/LeetCode_Module/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ezi0op/LeetCode_Module/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ezi0op/LeetCode_Module/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ezi0op/LeetCode_Module/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
