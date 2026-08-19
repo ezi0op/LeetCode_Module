@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ezi0op/LeetCode_Module/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ezi0op/LeetCode_Module/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/ezi0op/LeetCode_Module/tree/master/0134-gas-station) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ezi0op/LeetCode_Module/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ezi0op/LeetCode_Module/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ezi0op/LeetCode_Module/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ezi0op/LeetCode_Module/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ezi0op/LeetCode_Module/tree/master/0191-number-of-1-bits) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0144-binary-tree-preorder-traversal) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0144-binary-tree-preorder-traversal) |
@@ -608,4 +612,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ezi0op/LeetCode_Module/tree/master/0239-sliding-window-maximum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
