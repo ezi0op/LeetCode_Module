@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/ezi0op/LeetCode_Module/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ezi0op/LeetCode_Module/tree/master/0197-rising-temperature) |
 | [0596-classes-with-at-least-5-students](https://github.com/ezi0op/LeetCode_Module/tree/master/0596-classes-with-at-least-5-students) |
+| [0620-not-boring-movies](https://github.com/ezi0op/LeetCode_Module/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/ezi0op/LeetCode_Module/tree/master/1075-project-employees-i) |
 | [1907-count-salary-categories](https://github.com/ezi0op/LeetCode_Module/tree/master/1907-count-salary-categories) |
 ## Sorting
