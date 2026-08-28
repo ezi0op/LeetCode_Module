@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/ezi0op/LeetCode_Module/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/ezi0op/LeetCode_Module/tree/master/1148-article-views-i) |
 | [1907-count-salary-categories](https://github.com/ezi0op/LeetCode_Module/tree/master/1907-count-salary-categories) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ezi0op/LeetCode_Module/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Sorting
 |  |
 | ------- |
