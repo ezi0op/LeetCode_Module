@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/ezi0op/LeetCode_Module/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/ezi0op/LeetCode_Module/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/ezi0op/LeetCode_Module/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/ezi0op/LeetCode_Module/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/ezi0op/LeetCode_Module/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/ezi0op/LeetCode_Module/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/ezi0op/LeetCode_Module/tree/master/1075-project-employees-i) |
