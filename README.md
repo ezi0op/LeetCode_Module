@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ezi0op/LeetCode_Module/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/ezi0op/LeetCode_Module/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ezi0op/LeetCode_Module/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/ezi0op/LeetCode_Module/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ezi0op/LeetCode_Module/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ezi0op/LeetCode_Module/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0171-excel-sheet-column-number) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ezi0op/LeetCode_Module/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ezi0op/LeetCode_Module/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ezi0op/LeetCode_Module/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/ezi0op/LeetCode_Module/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/ezi0op/LeetCode_Module/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ezi0op/LeetCode_Module/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ezi0op/LeetCode_Module/tree/master/0206-reverse-linked-list) |
