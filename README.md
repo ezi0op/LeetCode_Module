@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/ezi0op/LeetCode_Module/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ezi0op/LeetCode_Module/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/ezi0op/LeetCode_Module/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/ezi0op/LeetCode_Module/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0410-split-array-largest-sum) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ezi0op/LeetCode_Module/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ezi0op/LeetCode_Module/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0145-binary-tree-postorder-traversal) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ezi0op/LeetCode_Module/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ezi0op/LeetCode_Module/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0145-binary-tree-postorder-traversal) |
@@ -691,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ezi0op/LeetCode_Module/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ezi0op/LeetCode_Module/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0145-binary-tree-postorder-traversal) |
@@ -732,4 +736,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ezi0op/LeetCode_Module/tree/master/0295-find-median-from-data-stream) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
