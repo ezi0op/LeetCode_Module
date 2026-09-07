@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/ezi0op/LeetCode_Module/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/ezi0op/LeetCode_Module/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
+| [0940-distinct-subsequences-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0940-distinct-subsequences-ii) |
 | [1023-camelcase-matching](https://github.com/ezi0op/LeetCode_Module/tree/master/1023-camelcase-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/ezi0op/LeetCode_Module/tree/master/1108-defanging-an-ip-address) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0940-distinct-subsequences-ii) |
 | [1668-maximum-repeating-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/ezi0op/LeetCode_Module/tree/master/1871-jump-game-vii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
