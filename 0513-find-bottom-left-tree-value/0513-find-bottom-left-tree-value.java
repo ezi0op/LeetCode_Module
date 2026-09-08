@@ -14,27 +14,23 @@
  * }
  */
 class Solution {
+    	int dfsAns = 0;
+	int maxDepth = -1;
     public int findBottomLeftValue(TreeNode root) {
-   Queue<TreeNode> queue = new LinkedList<>();
-		queue.offer(root);
-		int ans = root.val;
-		while (!queue.isEmpty()) {
-			int size = queue.size();
-			for (int i = 0; i < size; i++) {
-				TreeNode curr = queue.poll();
-				if (i == 0) {
-					ans = curr.val;
-				}
-				if (curr.left != null) {
-					queue.offer(curr.left);
-				}
-				if (curr.right != null) {
-					queue.offer(curr.right);
-				}
-			}
+  findBottomLeftValueDFSHelper(root, 0);
+		return dfsAns;
+	}
+
+	private void findBottomLeftValueDFSHelper(TreeNode root, int i) {
+		if (root == null) {
+			return;
 		}
-		return ans;
+		if (i > maxDepth) {
+			maxDepth = i;
+			dfsAns = root.val;
+		}
+		findBottomLeftValueDFSHelper(root.left, i + 1);
+		findBottomLeftValueDFSHelper(root.right, i + 1);
 
-
-    }
+	}
 }
