@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/ezi0op/LeetCode_Module/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ezi0op/LeetCode_Module/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ezi0op/LeetCode_Module/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/ezi0op/LeetCode_Module/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/ezi0op/LeetCode_Module/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0189-rotate-array) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ezi0op/LeetCode_Module/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ezi0op/LeetCode_Module/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0064-minimum-path-sum) |
+| [0096-unique-binary-search-trees](https://github.com/ezi0op/LeetCode_Module/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/ezi0op/LeetCode_Module/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ezi0op/LeetCode_Module/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ezi0op/LeetCode_Module/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/ezi0op/LeetCode_Module/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0101-symmetric-tree) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/ezi0op/LeetCode_Module/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0101-symmetric-tree) |
@@ -736,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ezi0op/LeetCode_Module/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0700-search-in-a-binary-search-tree) |
