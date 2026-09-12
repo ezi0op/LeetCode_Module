@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ezi0op/LeetCode_Module/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ezi0op/LeetCode_Module/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/ezi0op/LeetCode_Module/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ezi0op/LeetCode_Module/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ezi0op/LeetCode_Module/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ezi0op/LeetCode_Module/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/ezi0op/LeetCode_Module/tree/master/0058-length-of-last-word) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ezi0op/LeetCode_Module/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ezi0op/LeetCode_Module/tree/master/0239-sliding-window-maximum) |
