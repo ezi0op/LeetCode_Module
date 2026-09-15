@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ezi0op/LeetCode_Module/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ezi0op/LeetCode_Module/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1929-concatenation-of-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ezi0op/LeetCode_Module/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
