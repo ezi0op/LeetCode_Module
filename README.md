@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ezi0op/LeetCode_Module/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1095-find-in-mountain-array) |
 | [1324-print-words-vertically](https://github.com/ezi0op/LeetCode_Module/tree/master/1324-print-words-vertically) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ezi0op/LeetCode_Module/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/ezi0op/LeetCode_Module/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/ezi0op/LeetCode_Module/tree/master/1528-shuffle-string) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/ezi0op/LeetCode_Module/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ezi0op/LeetCode_Module/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ezi0op/LeetCode_Module/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ezi0op/LeetCode_Module/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1095-find-in-mountain-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ezi0op/LeetCode_Module/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Database
 |  |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0509-fibonacci-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ezi0op/LeetCode_Module/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1668-maximum-repeating-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/ezi0op/LeetCode_Module/tree/master/1871-jump-game-vii) |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ezi0op/LeetCode_Module/tree/master/0239-sliding-window-maximum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1871-jump-game-vii](https://github.com/ezi0op/LeetCode_Module/tree/master/1871-jump-game-vii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ezi0op/LeetCode_Module/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
