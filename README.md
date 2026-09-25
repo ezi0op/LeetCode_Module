@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
+| [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/ezi0op/LeetCode_Module/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ezi0op/LeetCode_Module/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0940-distinct-subsequences-ii) |
 | [1023-camelcase-matching](https://github.com/ezi0op/LeetCode_Module/tree/master/1023-camelcase-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/ezi0op/LeetCode_Module/tree/master/1108-defanging-an-ip-address) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1324-print-words-vertically](https://github.com/ezi0op/LeetCode_Module/tree/master/1324-print-words-vertically) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ezi0op/LeetCode_Module/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/ezi0op/LeetCode_Module/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/ezi0op/LeetCode_Module/tree/master/3174-clear-digits) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0977-squares-of-a-sorted-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ezi0op/LeetCode_Module/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/ezi0op/LeetCode_Module/tree/master/1051-height-checker) |
+| [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ezi0op/LeetCode_Module/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ezi0op/LeetCode_Module/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Counting Sort
 |  |
@@ -723,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ezi0op/LeetCode_Module/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/ezi0op/LeetCode_Module/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/ezi0op/LeetCode_Module/tree/master/0617-merge-two-binary-trees) |
+| [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ezi0op/LeetCode_Module/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bézout's Lemma
 |  |
