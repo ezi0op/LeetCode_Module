@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/ezi0op/LeetCode_Module/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/ezi0op/LeetCode_Module/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ezi0op/LeetCode_Module/tree/master/0383-ransom-note) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/ezi0op/LeetCode_Module/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ezi0op/LeetCode_Module/tree/master/0257-binary-tree-paths) |
 | [0365-water-and-jug-problem](https://github.com/ezi0op/LeetCode_Module/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/ezi0op/LeetCode_Module/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/ezi0op/LeetCode_Module/tree/master/0513-find-bottom-left-tree-value) |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ezi0op/LeetCode_Module/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ezi0op/LeetCode_Module/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/ezi0op/LeetCode_Module/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0572-subtree-of-another-tree) |
@@ -801,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ezi0op/LeetCode_Module/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ezi0op/LeetCode_Module/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/ezi0op/LeetCode_Module/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0572-subtree-of-another-tree) |
