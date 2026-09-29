@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1929-concatenation-of-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ezi0op/LeetCode_Module/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ezi0op/LeetCode_Module/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ezi0op/LeetCode_Module/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ezi0op/LeetCode_Module/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/ezi0op/LeetCode_Module/tree/master/0835-image-overlap) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ezi0op/LeetCode_Module/tree/master/1030-matrix-cells-in-distance-order) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ezi0op/LeetCode_Module/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ezi0op/LeetCode_Module/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ezi0op/LeetCode_Module/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1668-maximum-repeating-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/ezi0op/LeetCode_Module/tree/master/1871-jump-game-vii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ezi0op/LeetCode_Module/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ezi0op/LeetCode_Module/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ezi0op/LeetCode_Module/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -766,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ezi0op/LeetCode_Module/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
 |  |
 | ------- |
