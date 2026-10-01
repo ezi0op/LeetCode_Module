@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ezi0op/LeetCode_Module/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ezi0op/LeetCode_Module/tree/master/0217-contains-duplicate) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ezi0op/LeetCode_Module/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ezi0op/LeetCode_Module/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/ezi0op/LeetCode_Module/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/ezi0op/LeetCode_Module/tree/master/0835-image-overlap) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ezi0op/LeetCode_Module/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ezi0op/LeetCode_Module/tree/master/0257-binary-tree-paths) |
 | [0365-water-and-jug-problem](https://github.com/ezi0op/LeetCode_Module/tree/master/0365-water-and-jug-problem) |
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ezi0op/LeetCode_Module/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0226-invert-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/ezi0op/LeetCode_Module/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/ezi0op/LeetCode_Module/tree/master/0404-sum-of-left-leaves) |
@@ -893,4 +897,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/3525-find-x-value-of-array-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
