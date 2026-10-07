@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ezi0op/LeetCode_Module/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ezi0op/LeetCode_Module/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ezi0op/LeetCode_Module/tree/master/0383-ransom-note) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ezi0op/LeetCode_Module/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ezi0op/LeetCode_Module/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/ezi0op/LeetCode_Module/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/ezi0op/LeetCode_Module/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/ezi0op/LeetCode_Module/tree/master/0513-find-bottom-left-tree-value) |
