@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-print-words-vertically](https://github.com/ezi0op/LeetCode_Module/tree/master/1324-print-words-vertically) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ezi0op/LeetCode_Module/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/ezi0op/LeetCode_Module/tree/master/1528-shuffle-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ezi0op/LeetCode_Module/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ezi0op/LeetCode_Module/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/ezi0op/LeetCode_Module/tree/master/1668-maximum-repeating-substring) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ezi0op/LeetCode_Module/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ezi0op/LeetCode_Module/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/ezi0op/LeetCode_Module/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/ezi0op/LeetCode_Module/tree/master/3174-clear-digits) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ezi0op/LeetCode_Module/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ezi0op/LeetCode_Module/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ezi0op/LeetCode_Module/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ezi0op/LeetCode_Module/tree/master/1903-largest-odd-number-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ezi0op/LeetCode_Module/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3523-make-array-non-decreasing](https://github.com/ezi0op/LeetCode_Module/tree/master/3523-make-array-non-decreasing) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ezi0op/LeetCode_Module/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ezi0op/LeetCode_Module/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ezi0op/LeetCode_Module/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
