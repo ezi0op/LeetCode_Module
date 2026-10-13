@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/ezi0op/LeetCode_Module/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ezi0op/LeetCode_Module/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ezi0op/LeetCode_Module/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/ezi0op/LeetCode_Module/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ezi0op/LeetCode_Module/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/ezi0op/LeetCode_Module/tree/master/0172-factorial-trailing-zeroes) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ezi0op/LeetCode_Module/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ezi0op/LeetCode_Module/tree/master/0190-reverse-bits) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/ezi0op/LeetCode_Module/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/ezi0op/LeetCode_Module/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ezi0op/LeetCode_Module/tree/master/0257-binary-tree-paths) |
