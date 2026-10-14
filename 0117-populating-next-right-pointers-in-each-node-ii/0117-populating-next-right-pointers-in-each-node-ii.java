@@ -24,38 +24,35 @@ class Node {
 class Solution {
     public Node connect(Node root) {
 
-        if (root == null) {
-            return null;
-        }
-        if (root.left != null) {
-            if (root.right != null) {
-                root.left.next = root.right;
-            } else {
+      	// we using two pointers approach to connect the next pointer of each node to
+		// the next right node in a binary tree
+		Node curr = root;
+		Node dummy = new Node(0);
+		while (curr != null) {
+			// we using dummy noden to store next level of binary tree as linked list
+			Node temp = dummy;
+			dummy.next = null;
+			while (curr != null) {
 
-                root.left.next = findNext(root.next);
-            }
-        }
-        if (root.right != null) {
-            root.right.next = findNext(root.next);
-        }
-        connect(root.right);
-        connect(root.left);
-        return root;
-
-    }
-
-    private Node findNext(Node root) {
-        while (root != null) {
-            if (root.left != null) {
-                return root.left;
-            }
-            if (root.right != null) {
-                return root.right;
-            }
-            root = root.next;
-
-        }
-        return null;
+				// if left child is not null then connect it to the next pointer of temp and
+				// move temp to the next node
+				if (curr.left != null) {
+					temp.next = curr.left;
+					temp = temp.next;
+				}
+				// if right child is not null then connect it to the next pointer of temp and
+				// move temp to the next node
+				if (curr.right != null) {
+					temp.next = curr.right;
+					temp = temp.next;
+				}
+				// traverse the current level of binary tree using next pointer
+				curr = curr.next;
+			}
+			// move curr to the next level of binary tree using dummy next pointer
+			curr = dummy.next;
+		}
+		return root;
     }
 
 }
