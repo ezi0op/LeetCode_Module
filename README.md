@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/ezi0op/LeetCode_Module/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/ezi0op/LeetCode_Module/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ezi0op/LeetCode_Module/tree/master/1030-matrix-cells-in-distance-order) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ezi0op/LeetCode_Module/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ezi0op/LeetCode_Module/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ezi0op/LeetCode_Module/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/ezi0op/LeetCode_Module/tree/master/1512-number-of-good-pairs) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/ezi0op/LeetCode_Module/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ezi0op/LeetCode_Module/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ezi0op/LeetCode_Module/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ezi0op/LeetCode_Module/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ezi0op/LeetCode_Module/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
