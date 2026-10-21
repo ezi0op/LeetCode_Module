@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ezi0op/LeetCode_Module/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/ezi0op/LeetCode_Module/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3913-sort-vowels-by-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/3913-sort-vowels-by-frequency) |
 ## Stack
 |  |
