@@ -1,56 +1,77 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
 
-  return solveNQueensHelper(new boolean[n][n], 0);
-
-	}
-
-	private static List<List<String>> solveNQueensHelper(boolean[][] board, int row) {
-		if (row == board.length) {
-
-			List<List<String>> res = new ArrayList<>();
-			List<String> temp = new ArrayList<>();
-			for (boolean[] arr : board) {
-				StringBuilder sb = new StringBuilder();
-				for (boolean element : arr) {
-					sb.append(element ? 'Q' : '.');
-				}
-				temp.add(sb.toString());
-			}
-			res.add(temp);
-			return res;
-		}
+	boolean[][] board = new boolean[n][n];
 		List<List<String>> res = new ArrayList<>();
 
-		for (int col = 0; col < board.length; col++) {
-			if (isSafeQ(board, row, col)) {
-				board[row][col] = true;
-				res.addAll(solveNQueensHelper(board, row + 1));
-				board[row][col] = false;
-			}
-		}
+		queenSLeetCode(board, 0, res);
 		return res;
+
 	}
 
-	private static boolean isSafeQ(boolean[][] board, int row, int col) {
-		for (int i = 0; i < row; i++) {
-			if (board[i][col]) {
-				return false;
-			}
-		}
-		int maxLeft = Math.min(row, col);
-		for (int i = 1; i <= maxLeft; i++) {
-			if (board[row - i][col - i]) {
-				return false;
-			}
-		}
+	private static int queenSLeetCode(boolean[][] queenBoard, int row, List<List<String>> result) {
 
-		int maxRight = Math.min(row, board.length - col - 1);
+		// if we have placed queens in all the rows then we will add the board to the
+		// result and return 1
+		if (row == queenBoard.length) {
+			List<String> resultList = new ArrayList<>();
+
+			for (boolean[] rows : queenBoard) {
+				StringBuilder sb = new StringBuilder();
+				// here we are converting the boolean array to string and adding it to the
+				// result list
+				// if element is true then we will add Q else we will add . to the string
+				for (boolean element : rows) {
+					sb.append(element ? "Q" : ".");
+				}
+				resultList.add(sb.toString());
+
+			}
+			result.add(resultList);
+			return 1;
+		}
+		int count = 0;
+		// placing queen and checking for every row and col
+		for (int cols = 0; cols < queenBoard.length; cols++) {
+			// place the queen if it is safe to place the queen or not
+			if (isSafeQueenSLeetCode(queenBoard, row, cols)) {
+				queenBoard[row][cols] = true;
+
+				count += queenSLeetCode(queenBoard, row + 1, result);
+				queenBoard[row][cols] = false;
+
+			}
+		}
+		return count;
+	}
+
+	private static boolean isSafeQueenSLeetCode(boolean[][] queenBoard, int rows, int cols) {
+		// checlk for vertical row
+		for (int r = 0; r < rows; r++) {
+			// if board is true then there means queen is present there in that cell
+			if (queenBoard[r][cols]) {
+				return false;
+			}
+		}
+		// check for diagonal left
+		int maxLeft = Math.min(rows, cols);
+		for (int i = 1; i <= maxLeft; i++) {
+			// here we are decreasing both row and col by 1 to check the diagonal left of
+			// the current cell
+			if (queenBoard[rows - i][cols - i]) {
+				return false;
+			}
+		}
+		// check for diagonal right
+		int maxRight = Math.min(rows, queenBoard.length - cols - 1);
 		for (int i = 1; i <= maxRight; i++) {
-			if (board[row - i][col + i]) {
+			// here we are decreasing row by 1 and increasing col by 1 to check the diagonal
+			// right of the current cell
+			if (queenBoard[rows - i][cols + i]) {
 				return false;
 			}
 		}
 		return true;
 	}
+
 }
