@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/ezi0op/LeetCode_Module/tree/master/0365-water-and-jug-problem) |
 | [0507-perfect-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ezi0op/LeetCode_Module/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ezi0op/LeetCode_Module/tree/master/0633-sum-of-square-numbers) |
 | [0754-reach-a-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/ezi0op/LeetCode_Module/tree/master/0836-rectangle-overlap) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ezi0op/LeetCode_Module/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ezi0op/LeetCode_Module/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ezi0op/LeetCode_Module/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ezi0op/LeetCode_Module/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ezi0op/LeetCode_Module/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ezi0op/LeetCode_Module/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
 | [0905-sort-array-by-parity](https://github.com/ezi0op/LeetCode_Module/tree/master/0905-sort-array-by-parity) |
