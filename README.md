@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1095-find-in-mountain-array) |
 | [1254-number-of-closed-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/1254-number-of-closed-islands) |
 | [1324-print-words-vertically](https://github.com/ezi0op/LeetCode_Module/tree/master/1324-print-words-vertically) |
+| [1331-rank-transform-of-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1331-rank-transform-of-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
 | [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/ezi0op/LeetCode_Module/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ezi0op/LeetCode_Module/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/ezi0op/LeetCode_Module/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/ezi0op/LeetCode_Module/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ezi0op/LeetCode_Module/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ezi0op/LeetCode_Module/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
