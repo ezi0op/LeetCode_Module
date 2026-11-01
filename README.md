@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/ezi0op/LeetCode_Module/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ezi0op/LeetCode_Module/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ezi0op/LeetCode_Module/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/ezi0op/LeetCode_Module/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ezi0op/LeetCode_Module/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ezi0op/LeetCode_Module/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/ezi0op/LeetCode_Module/tree/master/1030-matrix-cells-in-distance-order) |
 | [1254-number-of-closed-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ezi0op/LeetCode_Module/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/ezi0op/LeetCode_Module/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ezi0op/LeetCode_Module/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ezi0op/LeetCode_Module/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/ezi0op/LeetCode_Module/tree/master/3665-twisted-mirror-path-count) |
