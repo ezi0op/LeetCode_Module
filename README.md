@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ezi0op/LeetCode_Module/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ezi0op/LeetCode_Module/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ezi0op/LeetCode_Module/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ezi0op/LeetCode_Module/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ezi0op/LeetCode_Module/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ezi0op/LeetCode_Module/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ezi0op/LeetCode_Module/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ezi0op/LeetCode_Module/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ezi0op/LeetCode_Module/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ezi0op/LeetCode_Module/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ezi0op/LeetCode_Module/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ezi0op/LeetCode_Module/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -833,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ezi0op/LeetCode_Module/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
