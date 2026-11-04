@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/ezi0op/LeetCode_Module/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/ezi0op/LeetCode_Module/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1095-find-in-mountain-array) |
+| [1122-relative-sort-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1122-relative-sort-array) |
 | [1254-number-of-closed-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/1254-number-of-closed-islands) |
 | [1324-print-words-vertically](https://github.com/ezi0op/LeetCode_Module/tree/master/1324-print-words-vertically) |
 | [1331-rank-transform-of-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1331-rank-transform-of-an-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ezi0op/LeetCode_Module/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
 | [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
+| [1122-relative-sort-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/ezi0op/LeetCode_Module/tree/master/1512-number-of-good-pairs) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/ezi0op/LeetCode_Module/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/ezi0op/LeetCode_Module/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
+| [1122-relative-sort-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ezi0op/LeetCode_Module/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ezi0op/LeetCode_Module/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1122-relative-sort-array) |
 ## Greedy
 |  |
 | ------- |
@@ -1094,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ezi0op/LeetCode_Module/tree/master/0056-merge-intervals) |
+| [1122-relative-sort-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1122-relative-sort-array) |
 ## Design
 |  |
 | ------- |
@@ -1142,4 +1147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
