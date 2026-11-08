@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1122-relative-sort-array) |
 | [1254-number-of-closed-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ezi0op/LeetCode_Module/tree/master/1267-count-servers-that-communicate) |
 | [1324-print-words-vertically](https://github.com/ezi0op/LeetCode_Module/tree/master/1324-print-words-vertically) |
 | [1331-rank-transform-of-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ezi0op/LeetCode_Module/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/ezi0op/LeetCode_Module/tree/master/0835-image-overlap) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ezi0op/LeetCode_Module/tree/master/1030-matrix-cells-in-distance-order) |
 | [1254-number-of-closed-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ezi0op/LeetCode_Module/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ezi0op/LeetCode_Module/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ezi0op/LeetCode_Module/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ezi0op/LeetCode_Module/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ezi0op/LeetCode_Module/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
+| [1267-count-servers-that-communicate](https://github.com/ezi0op/LeetCode_Module/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/ezi0op/LeetCode_Module/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ezi0op/LeetCode_Module/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3913-sort-vowels-by-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/3913-sort-vowels-by-frequency) |
@@ -934,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/ezi0op/LeetCode_Module/tree/master/0617-merge-two-binary-trees) |
 | [1254-number-of-closed-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ezi0op/LeetCode_Module/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ezi0op/LeetCode_Module/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ezi0op/LeetCode_Module/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -967,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/ezi0op/LeetCode_Module/tree/master/0617-merge-two-binary-trees) |
 | [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ezi0op/LeetCode_Module/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ezi0op/LeetCode_Module/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ezi0op/LeetCode_Module/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bézout's Lemma
@@ -1135,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ezi0op/LeetCode_Module/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ezi0op/LeetCode_Module/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ezi0op/LeetCode_Module/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
