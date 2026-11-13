@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ezi0op/LeetCode_Module/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ezi0op/LeetCode_Module/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ezi0op/LeetCode_Module/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ezi0op/LeetCode_Module/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ezi0op/LeetCode_Module/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3523-make-array-non-decreasing](https://github.com/ezi0op/LeetCode_Module/tree/master/3523-make-array-non-decreasing) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/ezi0op/LeetCode_Module/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/ezi0op/LeetCode_Module/tree/master/3174-clear-digits) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ezi0op/LeetCode_Module/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3523-make-array-non-decreasing](https://github.com/ezi0op/LeetCode_Module/tree/master/3523-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/ezi0op/LeetCode_Module/tree/master/1871-jump-game-vii) |
 | [2747-count-zero-request-servers](https://github.com/ezi0op/LeetCode_Module/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ezi0op/LeetCode_Module/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ezi0op/LeetCode_Module/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ezi0op/LeetCode_Module/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -951,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ezi0op/LeetCode_Module/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3523-make-array-non-decreasing](https://github.com/ezi0op/LeetCode_Module/tree/master/3523-make-array-non-decreasing) |
 ## Algorithm X
 |  |
@@ -1090,10 +1094,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ezi0op/LeetCode_Module/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ezi0op/LeetCode_Module/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ezi0op/LeetCode_Module/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ezi0op/LeetCode_Module/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1139,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ezi0op/LeetCode_Module/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ezi0op/LeetCode_Module/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
