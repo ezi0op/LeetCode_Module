@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/ezi0op/LeetCode_Module/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ezi0op/LeetCode_Module/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/ezi0op/LeetCode_Module/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/ezi0op/LeetCode_Module/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0922-sort-array-by-parity-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/ezi0op/LeetCode_Module/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
+| [0888-fair-candy-swap](https://github.com/ezi0op/LeetCode_Module/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1331-rank-transform-of-an-array) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0754-reach-a-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ezi0op/LeetCode_Module/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/ezi0op/LeetCode_Module/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ezi0op/LeetCode_Module/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1095-find-in-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ezi0op/LeetCode_Module/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/ezi0op/LeetCode_Module/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
+| [0888-fair-candy-swap](https://github.com/ezi0op/LeetCode_Module/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/ezi0op/LeetCode_Module/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0922-sort-array-by-parity-ii) |
