@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/ezi0op/LeetCode_Module/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ezi0op/LeetCode_Module/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ezi0op/LeetCode_Module/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ezi0op/LeetCode_Module/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ezi0op/LeetCode_Module/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ezi0op/LeetCode_Module/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2747-count-zero-request-servers](https://github.com/ezi0op/LeetCode_Module/tree/master/2747-count-zero-request-servers) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/ezi0op/LeetCode_Module/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/ezi0op/LeetCode_Module/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/ezi0op/LeetCode_Module/tree/master/2000-reverse-prefix-of-word) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ezi0op/LeetCode_Module/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ezi0op/LeetCode_Module/tree/master/2409-count-days-spent-together) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/ezi0op/LeetCode_Module/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/ezi0op/LeetCode_Module/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ezi0op/LeetCode_Module/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3913-sort-vowels-by-frequency](https://github.com/ezi0op/LeetCode_Module/tree/master/3913-sort-vowels-by-frequency) |
 ## Bit Manipulation
