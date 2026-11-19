@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/ezi0op/LeetCode_Module/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/ezi0op/LeetCode_Module/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/ezi0op/LeetCode_Module/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1122-relative-sort-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ezi0op/LeetCode_Module/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/ezi0op/LeetCode_Module/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/ezi0op/LeetCode_Module/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ezi0op/LeetCode_Module/tree/master/0921-minimum-add-to-make-parentheses-valid) |
