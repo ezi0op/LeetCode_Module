@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/ezi0op/LeetCode_Module/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/ezi0op/LeetCode_Module/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0912-sort-an-array) |
+| [0916-word-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/0916-word-subsets) |
 | [0922-sort-array-by-parity-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/ezi0op/LeetCode_Module/tree/master/0989-add-to-array-form-of-integer) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/ezi0op/LeetCode_Module/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/ezi0op/LeetCode_Module/tree/master/0888-fair-candy-swap) |
+| [0916-word-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/0916-word-subsets) |
 | [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/1331-rank-transform-of-an-array) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ezi0op/LeetCode_Module/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/0856-score-of-parentheses) |
+| [0916-word-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/0916-word-subsets) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ezi0op/LeetCode_Module/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/ezi0op/LeetCode_Module/tree/master/1021-remove-outermost-parentheses) |
