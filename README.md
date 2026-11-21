@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ezi0op/LeetCode_Module/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ezi0op/LeetCode_Module/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ezi0op/LeetCode_Module/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ezi0op/LeetCode_Module/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ezi0op/LeetCode_Module/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ezi0op/LeetCode_Module/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ezi0op/LeetCode_Module/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ezi0op/LeetCode_Module/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ezi0op/LeetCode_Module/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ezi0op/LeetCode_Module/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ezi0op/LeetCode_Module/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ezi0op/LeetCode_Module/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/ezi0op/LeetCode_Module/tree/master/3174-clear-digits) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ezi0op/LeetCode_Module/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/3498-reverse-degree-of-a-string) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ezi0op/LeetCode_Module/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/ezi0op/LeetCode_Module/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
@@ -1005,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ezi0op/LeetCode_Module/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ezi0op/LeetCode_Module/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ezi0op/LeetCode_Module/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ezi0op/LeetCode_Module/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Monotonic Stack
@@ -1111,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ezi0op/LeetCode_Module/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ezi0op/LeetCode_Module/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ezi0op/LeetCode_Module/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
