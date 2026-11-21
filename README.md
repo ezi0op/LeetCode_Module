@@ -1009,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ezi0op/LeetCode_Module/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ezi0op/LeetCode_Module/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ezi0op/LeetCode_Module/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ezi0op/LeetCode_Module/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -1117,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ezi0op/LeetCode_Module/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ezi0op/LeetCode_Module/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ezi0op/LeetCode_Module/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -1157,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ezi0op/LeetCode_Module/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ezi0op/LeetCode_Module/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Queue
 |  |
 | ------- |
