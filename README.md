@@ -738,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ezi0op/LeetCode_Module/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/ezi0op/LeetCode_Module/tree/master/0832-flipping-an-image) |
+| [0868-binary-gap](https://github.com/ezi0op/LeetCode_Module/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ezi0op/LeetCode_Module/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ezi0op/LeetCode_Module/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ezi0op/LeetCode_Module/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
