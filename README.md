@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/ezi0op/LeetCode_Module/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ezi0op/LeetCode_Module/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ezi0op/LeetCode_Module/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ezi0op/LeetCode_Module/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ezi0op/LeetCode_Module/tree/master/2409-count-days-spent-together) |
