@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/ezi0op/LeetCode_Module/tree/master/0705-design-hashset) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ezi0op/LeetCode_Module/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0823-binary-trees-with-factors](https://github.com/ezi0op/LeetCode_Module/tree/master/0823-binary-trees-with-factors) |
 | [0832-flipping-an-image](https://github.com/ezi0op/LeetCode_Module/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/ezi0op/LeetCode_Module/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/ezi0op/LeetCode_Module/tree/master/0705-design-hashset) |
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/ezi0op/LeetCode_Module/tree/master/0771-jewels-and-stones) |
+| [0823-binary-trees-with-factors](https://github.com/ezi0op/LeetCode_Module/tree/master/0823-binary-trees-with-factors) |
 | [0888-fair-candy-swap](https://github.com/ezi0op/LeetCode_Module/tree/master/0888-fair-candy-swap) |
 | [0916-word-subsets](https://github.com/ezi0op/LeetCode_Module/tree/master/0916-word-subsets) |
 | [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/ezi0op/LeetCode_Module/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
+| [0823-binary-trees-with-factors](https://github.com/ezi0op/LeetCode_Module/tree/master/0823-binary-trees-with-factors) |
 | [0888-fair-candy-swap](https://github.com/ezi0op/LeetCode_Module/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/ezi0op/LeetCode_Module/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0912-sort-an-array) |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0823-binary-trees-with-factors](https://github.com/ezi0op/LeetCode_Module/tree/master/0823-binary-trees-with-factors) |
 | [0940-distinct-subsequences-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ezi0op/LeetCode_Module/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
