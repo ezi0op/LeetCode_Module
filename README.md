@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/ezi0op/LeetCode_Module/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/ezi0op/LeetCode_Module/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ezi0op/LeetCode_Module/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4020-elevator-requests-i](https://github.com/ezi0op/LeetCode_Module/tree/master/4020-elevator-requests-i) |
 ## Hash Table
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/ezi0op/LeetCode_Module/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ezi0op/LeetCode_Module/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3606-coupon-code-validator](https://github.com/ezi0op/LeetCode_Module/tree/master/3606-coupon-code-validator) |
+| [3934-smallest-unique-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ezi0op/LeetCode_Module/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ezi0op/LeetCode_Module/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ezi0op/LeetCode_Module/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/3934-smallest-unique-subarray) |
 ## Database
 |  |
 | ------- |
@@ -1215,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/ezi0op/LeetCode_Module/tree/master/0705-design-hashset) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/3934-smallest-unique-subarray) |
 ## Quicksort
 |  |
 | ------- |
@@ -1240,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/3934-smallest-unique-subarray) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1286,4 +1291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ezi0op/LeetCode_Module/tree/master/3411-maximum-subarray-with-equal-products) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
