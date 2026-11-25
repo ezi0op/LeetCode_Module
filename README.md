@@ -1027,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ezi0op/LeetCode_Module/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ezi0op/LeetCode_Module/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ezi0op/LeetCode_Module/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/ezi0op/LeetCode_Module/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -1067,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/ezi0op/LeetCode_Module/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/ezi0op/LeetCode_Module/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/ezi0op/LeetCode_Module/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ezi0op/LeetCode_Module/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ezi0op/LeetCode_Module/tree/master/0617-merge-two-binary-trees) |
 | [1096-brace-expansion-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/ezi0op/LeetCode_Module/tree/master/1254-number-of-closed-islands) |
@@ -1136,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ezi0op/LeetCode_Module/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ezi0op/LeetCode_Module/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ezi0op/LeetCode_Module/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/ezi0op/LeetCode_Module/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ezi0op/LeetCode_Module/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -1179,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ezi0op/LeetCode_Module/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ezi0op/LeetCode_Module/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ezi0op/LeetCode_Module/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/ezi0op/LeetCode_Module/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ezi0op/LeetCode_Module/tree/master/0617-merge-two-binary-trees) |
@@ -1210,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ezi0op/LeetCode_Module/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ezi0op/LeetCode_Module/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ezi0op/LeetCode_Module/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Hash Function
