@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ezi0op/LeetCode_Module/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ezi0op/LeetCode_Module/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/ezi0op/LeetCode_Module/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/ezi0op/LeetCode_Module/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ezi0op/LeetCode_Module/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ezi0op/LeetCode_Module/tree/master/0349-intersection-of-two-arrays) |
@@ -1236,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0284-peeking-iterator](https://github.com/ezi0op/LeetCode_Module/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/ezi0op/LeetCode_Module/tree/master/0295-find-median-from-data-stream) |
 | [0705-design-hashset](https://github.com/ezi0op/LeetCode_Module/tree/master/0705-design-hashset) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ezi0op/LeetCode_Module/tree/master/1352-product-of-the-last-k-numbers) |
@@ -1304,4 +1306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/3934-smallest-unique-subarray) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/ezi0op/LeetCode_Module/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
