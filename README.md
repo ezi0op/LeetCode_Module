@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ezi0op/LeetCode_Module/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/ezi0op/LeetCode_Module/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/ezi0op/LeetCode_Module/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/ezi0op/LeetCode_Module/tree/master/0705-design-hashset) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ezi0op/LeetCode_Module/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/ezi0op/LeetCode_Module/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/ezi0op/LeetCode_Module/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/ezi0op/LeetCode_Module/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/ezi0op/LeetCode_Module/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/ezi0op/LeetCode_Module/tree/master/0705-design-hashset) |
 | [0767-reorganize-string](https://github.com/ezi0op/LeetCode_Module/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/ezi0op/LeetCode_Module/tree/master/0771-jewels-and-stones) |
